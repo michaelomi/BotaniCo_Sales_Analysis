@@ -1,8 +1,8 @@
 # BotaniCo Sales Analysis : 2022 - 2024
 
-![dashboard to show all metrics.](https://imgur.com/xlqi0KS.png)
+![dashboard to show all metrics.](https://imgur.com/frzuzox.png)
 
-Analyzing BotaniCo Sales from 2022 to 2024. Interactive Power BI Dashboard can be found [here](https://github.com/michaelomi/BotaniCo_Sales_Analysis/blob/main/BotaniCo_Dashboard.pbix).
+Interactive Power BI Dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiYTIxMzZkYjktYTYwOC00MWZjLWEyODAtOWE0MjlkNDlhM2E0IiwidCI6IjA1ODU3NTFmLTRiNDctNDUzOS04YmMzLWJmODNlMmVlMWQzZiJ9)
 
 # Table of Contents
   <a id = "table_of_contents"></a><br>
@@ -114,11 +114,11 @@ In this section, I utilized Power BI for data visualization, while SQL was used 
 
 Here’s a preview of the Power BI dashboard that showcases the insights and metrics from this analysis:
 
-![Dashboard Page 1](https://imgur.com/xlqi0KS.png)
-![Dashboard Page 2](https://imgur.com/gKnwE9I.png)
-![Dashboard Page 3](https://imgur.com/r1xLGt3.png)
+![Dashboard Page 1](https://imgur.com/frzuzox.png)
+![Dashboard Page 2](https://imgur.com/B2JcSJf.png)
+![Dashboard Page 3](https://imgur.com/tClYTeD.png)
 
-Explore the interactive Power BI dashboard to view key metrics such as revenue, gross profit, and quantity, and see how they impact products and customer trends. Filter data by year to gain deeper insights [here](https://github.com/michaelomi/BotaniCo_Sales_Analysis/blob/main/BotaniCo_Dashboard.pbix).
+Explore the interactive Power BI dashboard to view key metrics such as revenue, gross profit, and quantity, and see how they impact products and customer trends. Filter data by year to gain deeper insights [here](https://app.powerbi.com/view?r=eyJrIjoiYTIxMzZkYjktYTYwOC00MWZjLWEyODAtOWE0MjlkNDlhM2E0IiwidCI6IjA1ODU3NTFmLTRiNDctNDUzOS04YmMzLWJmODNlMmVlMWQzZiJ9)
 
 <a id='recommendations-next-steps'></a>
 ## Part 3: Recommendations & Next Steps
