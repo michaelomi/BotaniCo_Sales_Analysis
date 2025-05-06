@@ -1,6 +1,6 @@
 # BotaniCo Sales Analysis : 2022 - 2024
 
-![dashboard to show all metrics.](https://imgur.com/frzuzox.png)
+![dashboard to show all metrics.](https://imgur.com/5E6BsNn.png)
 
 Interactive Power BI Dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiYTIxMzZkYjktYTYwOC00MWZjLWEyODAtOWE0MjlkNDlhM2E0IiwidCI6IjA1ODU3NTFmLTRiNDctNDUzOS04YmMzLWJmODNlMmVlMWQzZiJ9)
 
@@ -114,7 +114,7 @@ In this section, I utilized Power BI for data visualization, while SQL was used 
 
 Here’s a preview of the Power BI dashboard that showcases the insights and metrics from this analysis:
 
-![Dashboard Page 1](https://imgur.com/frzuzox.png)
+![Dashboard Page 1](https://imgur.com/5E6BsNn.png)
 ![Dashboard Page 2](https://imgur.com/B2JcSJf.png)
 ![Dashboard Page 3](https://imgur.com/tClYTeD.png)
 
