@@ -2,7 +2,7 @@
 
 ![dashboard to show all metrics.](https://imgur.com/5E6BsNn.png)
 
-Interactive Power BI Dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiYTIxMzZkYjktYTYwOC00MWZjLWEyODAtOWE0MjlkNDlhM2E0IiwidCI6IjA1ODU3NTFmLTRiNDctNDUzOS04YmMzLWJmODNlMmVlMWQzZiJ9)
+Interactive Power BI Dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiMDJiNTY1ZTAtZjNiYy00MzBlLTg0OWUtNGQ0NjI2ZDc0NTZjIiwidCI6IjA1ODU3NTFmLTRiNDctNDUzOS04YmMzLWJmODNlMmVlMWQzZiJ9)
 
 # Table of Contents
   <a id = "table_of_contents"></a><br>
